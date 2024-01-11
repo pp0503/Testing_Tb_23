@@ -2,10 +2,13 @@ package com.cjc.Demo;
 
 public class Demo
 {
-	public static void main(String[] args) 
-	{
-		
-System.out.println("Hello Git");		
-	}
+public void m1()
+{
+	System.out.println("m1 method");
+}
+public static void main(String[] args) 
+{
+	System.out.println("Hello Git");		
+}
 
 }
